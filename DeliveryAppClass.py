@@ -2,6 +2,7 @@
 from tkinter import *
 
 class DeliveryApp:
+    #new-menu
         def __init__(self):
             self.window = Tk()
             self.window.geometry("420x420")  
